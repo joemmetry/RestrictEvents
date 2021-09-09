@@ -69,6 +69,7 @@
 				CE8DA0CA2517DE74008C44E8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		1C748C281C21952C0024EED2 /* Products */ = {
 			isa = PBXGroup;
@@ -370,7 +371,7 @@
 				MODULE_NAME = as.vit9696.RestrictEvents;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.0.4;
+				MODULE_VERSION = 1.0.5;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -419,7 +420,7 @@
 				MODULE_NAME = as.vit9696.RestrictEvents;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.0.4;
+				MODULE_VERSION = 1.0.5;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
